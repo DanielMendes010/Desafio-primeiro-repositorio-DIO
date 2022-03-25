@@ -1,2 +1,2 @@
-# Desafios-Dio
-Desafios de código da Dio.
+# Desafio-Dio-Git/GitHub
+Repositório de desafio de "primeiro repositório" da Dio.
